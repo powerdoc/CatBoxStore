@@ -1,0 +1,23 @@
+@media screen and (max-width: 600px) {
+
+    .products {
+        flex-direction: column;
+        max-height: auto;
+    }
+
+    main .products .product {
+        margin-top: 0;
+    }
+
+    .main-section {
+        padding: 4%;
+    } 
+
+    .mentions {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr ;
+        justify-content: center;
+        align-content: center;
+    }
+
+}
