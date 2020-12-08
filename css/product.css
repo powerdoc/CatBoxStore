@@ -5,3 +5,9 @@
     font-size: 1.7rem;
     font-weight: bold;
 }
+
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
